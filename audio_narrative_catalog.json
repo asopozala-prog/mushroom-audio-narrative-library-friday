@@ -1,0 +1,685 @@
+{
+  "schema": "mushroom.audio-narrative.catalog",
+  "schema_version": 1,
+  "stories": [
+    {
+      "id": "midnight_butter_bread_at_mushroom_house",
+      "title": "Midnight Butter Bread At Mushroom House",
+      "description": "In a quiet corner of a Berlin park, without an address or street number, stands an invisible Mushroom House where a little girl lives with her ancient horse spirit. They spend their days playing with mathematics and syntax, discovering the peculiar pleasures of thinking together. During a rainy November week, they decide to bake a round golden butter bread, but yeast, the moodiest of ingredients, makes them uncertain whether their dough will ever rise. They discuss temperatures, liquids, proportions, and procedures, applying all their mathematical wisdom to the mysterious behaviour of living dough. Finally, at midnight, there is nothing left to calculate, so the little girl sits beside her old horse, resting her small hands in his great hooves, while the stone oven quietly does its work. By morning, a perfectly round golden butter bread is waiting for them, warm and fragrant, as though the night itself had baked a little happiness.",
+      "scenes": [
+        {
+          "id": "midnight_butter_bread_at_mushroom_house/track_01_batch_story/c9da57afa7e0ac06",
+          "title": "Track 01 Batch Story",
+          "order": 1,
+          "prompt": "In a quiet corner of a Berlin park, without an address or street number, stands an invisible Mushroom House where a little girl lives with her ancient horse spirit. They spend their days playing with mathematics and syntax, discovering the peculiar pleasures of thinking together. During a rainy November week, they decide to bake a round golden butter bread, but yeast, the moodiest of ingredients, makes them uncertain whether their dough will ever rise. They discuss temperatures, liquids, proportions, and procedures, applying all their mathematical wisdom to the mysterious behaviour of living dough. Finally, at midnight, there is nothing left to calculate, so the little girl sits beside her old horse, resting her small hands in his great hooves, while the stone oven quietly does its work. By morning, a perfectly round golden butter bread is waiting for them, warm and fragrant, as though the night itself had baked a little happiness.",
+          "recordings": [
+            {
+              "id": "studio_batch_6958ba724e804124/track_01_batch_story/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_01_batch_story/424ae620-eddb-59a6-73df-372d46082c43.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_01_batch_story/424ae620-eddb-59a6-73df-372d46082c43.flac"
+                }
+              ],
+              "filename": "424ae620-eddb-59a6-73df-372d46082c43"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_01_batch_story/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_01_batch_story/40a42b07-8d90-94ec-57fb-2fe038e30a46.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_01_batch_story/40a42b07-8d90-94ec-57fb-2fe038e30a46.flac"
+                }
+              ],
+              "filename": "40a42b07-8d90-94ec-57fb-2fe038e30a46"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_01_batch_story/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_01_batch_story/7917a37b-2058-5d59-311d-767d1af21f40.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_01_batch_story/7917a37b-2058-5d59-311d-767d1af21f40.flac"
+                }
+              ],
+              "filename": "7917a37b-2058-5d59-311d-767d1af21f40"
+            }
+          ]
+        },
+        {
+          "id": "midnight_butter_bread_at_mushroom_house/track_02_the_invisible_house_in_the_park/aba214ca0639e607",
+          "title": "Track 02 The Invisible House In The Park",
+          "order": 2,
+          "prompt": "Warm instrumental cool jazz, 68 BPM, mellow tenor saxophone, soft acoustic piano, upright bass and delicate brushed drums. Gentle flowing melody, relaxed steady swing, rich major seventh harmonies, intimate vintage acoustic warmth, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6958ba724e804124/track_02_the_invisible_house_in_the_park/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_02_the_invisible_house_in_the_park/9a979e79-f005-01ca-e7e1-27c4906a9407.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_02_the_invisible_house_in_the_park/9a979e79-f005-01ca-e7e1-27c4906a9407.flac"
+                }
+              ],
+              "filename": "9a979e79-f005-01ca-e7e1-27c4906a9407"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_02_the_invisible_house_in_the_park/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_02_the_invisible_house_in_the_park/632a0927-91c2-f69b-ae11-505db52732bd.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_02_the_invisible_house_in_the_park/632a0927-91c2-f69b-ae11-505db52732bd.flac"
+                }
+              ],
+              "filename": "632a0927-91c2-f69b-ae11-505db52732bd"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_02_the_invisible_house_in_the_park/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_02_the_invisible_house_in_the_park/2b993cb6-3a60-b711-093e-c3a422e2f65e.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_02_the_invisible_house_in_the_park/2b993cb6-3a60-b711-093e-c3a422e2f65e.flac"
+                }
+              ],
+              "filename": "2b993cb6-3a60-b711-093e-c3a422e2f65e"
+            }
+          ]
+        },
+        {
+          "id": "midnight_butter_bread_at_mushroom_house/track_03_mathematics_with_an_old_horse/c3d9f3e4a3d710e7",
+          "title": "Track 03 Mathematics With An Old Horse",
+          "order": 3,
+          "prompt": "Playful instrumental chamber jazz, 82 BPM, lyrical clarinet, warm piano and softly plucked upright bass. Short piano motifs answered by longer clarinet phrases, gentle rhythmic interplay, light syncopation, affectionate major harmonies, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6958ba724e804124/track_03_mathematics_with_an_old_horse/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_03_mathematics_with_an_old_horse/6f56d40b-87bc-23bb-0edf-8cb1dfc696c0.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_03_mathematics_with_an_old_horse/6f56d40b-87bc-23bb-0edf-8cb1dfc696c0.flac"
+                }
+              ],
+              "filename": "6f56d40b-87bc-23bb-0edf-8cb1dfc696c0"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_03_mathematics_with_an_old_horse/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_03_mathematics_with_an_old_horse/bd3dec47-c603-eeaa-1088-b8313663723d.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_03_mathematics_with_an_old_horse/bd3dec47-c603-eeaa-1088-b8313663723d.flac"
+                }
+              ],
+              "filename": "bd3dec47-c603-eeaa-1088-b8313663723d"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_03_mathematics_with_an_old_horse/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_03_mathematics_with_an_old_horse/add67524-6a43-06a3-39f7-3f180c8c643e.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_03_mathematics_with_an_old_horse/add67524-6a43-06a3-39f7-3f180c8c643e.flac"
+                }
+              ],
+              "filename": "add67524-6a43-06a3-39f7-3f180c8c643e"
+            }
+          ]
+        },
+        {
+          "id": "midnight_butter_bread_at_mushroom_house/track_04_the_moodiest_ingredient/98cf0ee378875292",
+          "title": "Track 04 The Moodiest Ingredient",
+          "order": 4,
+          "prompt": "Whimsical instrumental swing jazz, 88 BPM, expressive alto saxophone, acoustic piano, upright bass and soft brushed drums. Playful chromatic melody, small rhythmic hesitations, warm bluesy harmonies, steady gentle swing, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6958ba724e804124/track_04_the_moodiest_ingredient/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_04_the_moodiest_ingredient/49158773-1dc0-4c11-b55c-129595638fc1.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_04_the_moodiest_ingredient/49158773-1dc0-4c11-b55c-129595638fc1.flac"
+                }
+              ],
+              "filename": "49158773-1dc0-4c11-b55c-129595638fc1"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_04_the_moodiest_ingredient/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_04_the_moodiest_ingredient/6578a7f8-7d5c-a6c8-81ec-a6c81ae44306.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_04_the_moodiest_ingredient/6578a7f8-7d5c-a6c8-81ec-a6c81ae44306.flac"
+                }
+              ],
+              "filename": "6578a7f8-7d5c-a6c8-81ec-a6c81ae44306"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_04_the_moodiest_ingredient/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_04_the_moodiest_ingredient/291e3cc3-2f0e-290a-721f-d4f4e0599e85.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_04_the_moodiest_ingredient/291e3cc3-2f0e-290a-721f-d4f4e0599e85.flac"
+                }
+              ],
+              "filename": "291e3cc3-2f0e-290a-721f-d4f4e0599e85"
+            }
+          ]
+        },
+        {
+          "id": "midnight_butter_bread_at_mushroom_house/track_05_the_mathematics_of_yeast/5e591782bee77eb6",
+          "title": "Track 05 The Mathematics Of Yeast",
+          "order": 5,
+          "prompt": "Intimate instrumental piano trio jazz, 76 BPM, warm acoustic piano, rounded upright bass and delicate brushed drums. Precise repeating piano figures, gentle melodic variations, relaxed steady pulse, subtle harmonic surprises, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6958ba724e804124/track_05_the_mathematics_of_yeast/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_05_the_mathematics_of_yeast/e67b1050-2260-29f8-9123-bb90a8ae9e0b.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_05_the_mathematics_of_yeast/e67b1050-2260-29f8-9123-bb90a8ae9e0b.flac"
+                }
+              ],
+              "filename": "e67b1050-2260-29f8-9123-bb90a8ae9e0b"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_05_the_mathematics_of_yeast/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_05_the_mathematics_of_yeast/dcb22358-b4bc-25c1-1711-a0d111d3c737.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_05_the_mathematics_of_yeast/dcb22358-b4bc-25c1-1711-a0d111d3c737.flac"
+                }
+              ],
+              "filename": "dcb22358-b4bc-25c1-1711-a0d111d3c737"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_05_the_mathematics_of_yeast/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_05_the_mathematics_of_yeast/df33753a-0215-8ab2-bbab-e56782bac558.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_05_the_mathematics_of_yeast/df33753a-0215-8ab2-bbab-e56782bac558.flac"
+                }
+              ],
+              "filename": "df33753a-0215-8ab2-bbab-e56782bac558"
+            }
+          ]
+        },
+        {
+          "id": "midnight_butter_bread_at_mushroom_house/track_06_rain_against_the_mushroom_windows/8080cc142f6ff33b",
+          "title": "Track 06 Rain Against The Mushroom Windows",
+          "order": 6,
+          "prompt": "Tender instrumental cool jazz, 64 BPM, breathy tenor saxophone, soft electric piano, deep warm bass and restrained brushed percussion. Slow continuous groove, delicate descending melody, rich minor seventh harmonies, peaceful rainy atmosphere, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6958ba724e804124/track_06_rain_against_the_mushroom_windows/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_06_rain_against_the_mushroom_windows/3053c0ca-8287-4bf3-6fc8-5d6d463d2be8.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_06_rain_against_the_mushroom_windows/3053c0ca-8287-4bf3-6fc8-5d6d463d2be8.flac"
+                }
+              ],
+              "filename": "3053c0ca-8287-4bf3-6fc8-5d6d463d2be8"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_06_rain_against_the_mushroom_windows/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_06_rain_against_the_mushroom_windows/5536998f-e38f-9bb1-8ff8-68b5f67c9081.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_06_rain_against_the_mushroom_windows/5536998f-e38f-9bb1-8ff8-68b5f67c9081.flac"
+                }
+              ],
+              "filename": "5536998f-e38f-9bb1-8ff8-68b5f67c9081"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_06_rain_against_the_mushroom_windows/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_06_rain_against_the_mushroom_windows/af01c460-01bc-0f1a-fc62-6168c79cc610.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_06_rain_against_the_mushroom_windows/af01c460-01bc-0f1a-fc62-6168c79cc610.flac"
+                }
+              ],
+              "filename": "af01c460-01bc-0f1a-fc62-6168c79cc610"
+            }
+          ]
+        },
+        {
+          "id": "midnight_butter_bread_at_mushroom_house/track_07_the_dough_is_thinking/9e57835b3d4bc0ac",
+          "title": "Track 07 The Dough Is Thinking",
+          "order": 7,
+          "prompt": "Gentle instrumental bossa nova jazz, 74 BPM, warm nylon-string guitar, soft electric piano, rounded bass and delicate brushed percussion. Calm repeating melody, light syncopated rhythm, tender major seventh harmonies, cozy intimate sound, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6958ba724e804124/track_07_the_dough_is_thinking/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_07_the_dough_is_thinking/955cb9c7-febc-e553-9ccc-5eb7374ae643.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_07_the_dough_is_thinking/955cb9c7-febc-e553-9ccc-5eb7374ae643.flac"
+                }
+              ],
+              "filename": "955cb9c7-febc-e553-9ccc-5eb7374ae643"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_07_the_dough_is_thinking/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_07_the_dough_is_thinking/76b4c42f-434b-7c53-0a2f-1d59ac9aa49e.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_07_the_dough_is_thinking/76b4c42f-434b-7c53-0a2f-1d59ac9aa49e.flac"
+                }
+              ],
+              "filename": "76b4c42f-434b-7c53-0a2f-1d59ac9aa49e"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_07_the_dough_is_thinking/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_07_the_dough_is_thinking/5d5c8816-f357-02b6-d117-7ea487227863.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_07_the_dough_is_thinking/5d5c8816-f357-02b6-d117-7ea487227863.flac"
+                }
+              ],
+              "filename": "5d5c8816-f357-02b6-d117-7ea487227863"
+            }
+          ]
+        },
+        {
+          "id": "midnight_butter_bread_at_mushroom_house/track_08_small_hands_in_old_hooves/c7ec01704ea28190",
+          "title": "Track 08 Small Hands In Old Hooves",
+          "order": 8,
+          "prompt": "Tender instrumental chamber jazz, 62 BPM, expressive warm cello, delicate acoustic piano and soft upright bass. Slow measured pulse, affectionate lyrical melody, gentle minor-to-major harmonic movement, intimate natural acoustics, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6958ba724e804124/track_08_small_hands_in_old_hooves/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_08_small_hands_in_old_hooves/2cbc8112-d521-814c-d2d8-7941931d59ac.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_08_small_hands_in_old_hooves/2cbc8112-d521-814c-d2d8-7941931d59ac.flac"
+                }
+              ],
+              "filename": "2cbc8112-d521-814c-d2d8-7941931d59ac"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_08_small_hands_in_old_hooves/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_08_small_hands_in_old_hooves/273b585b-9668-ebc8-7efb-1dbbb9d1057e.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_08_small_hands_in_old_hooves/273b585b-9668-ebc8-7efb-1dbbb9d1057e.flac"
+                }
+              ],
+              "filename": "273b585b-9668-ebc8-7efb-1dbbb9d1057e"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_08_small_hands_in_old_hooves/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_08_small_hands_in_old_hooves/7c29c448-6dc6-d1cb-dc4f-15dc740aabad.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_08_small_hands_in_old_hooves/7c29c448-6dc6-d1cb-dc4f-15dc740aabad.flac"
+                }
+              ],
+              "filename": "7c29c448-6dc6-d1cb-dc4f-15dc740aabad"
+            }
+          ]
+        },
+        {
+          "id": "midnight_butter_bread_at_mushroom_house/track_09_midnight_beside_the_stone_oven/32b5a3cceae697c8",
+          "title": "Track 09 Midnight Beside The Stone Oven",
+          "order": 9,
+          "prompt": "Warm instrumental soul jazz, 65 BPM, mellow tenor saxophone, intimate electric piano, deep rounded bass and very soft brushed drums. Slow hypnotic groove, long tender melodic phrases, rich major seventh harmonies, restrained dynamics, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6958ba724e804124/track_09_midnight_beside_the_stone_oven/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_09_midnight_beside_the_stone_oven/e69fb040-a8b2-255f-137b-a3e20f844e31.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_09_midnight_beside_the_stone_oven/e69fb040-a8b2-255f-137b-a3e20f844e31.flac"
+                }
+              ],
+              "filename": "e69fb040-a8b2-255f-137b-a3e20f844e31"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_09_midnight_beside_the_stone_oven/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_09_midnight_beside_the_stone_oven/57d8d17f-f63a-c325-8961-833397c79a5e.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_09_midnight_beside_the_stone_oven/57d8d17f-f63a-c325-8961-833397c79a5e.flac"
+                }
+              ],
+              "filename": "57d8d17f-f63a-c325-8961-833397c79a5e"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_09_midnight_beside_the_stone_oven/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_09_midnight_beside_the_stone_oven/f5669ee5-88de-5b56-5997-78a81d41b91c.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_09_midnight_beside_the_stone_oven/f5669ee5-88de-5b56-5997-78a81d41b91c.flac"
+                }
+              ],
+              "filename": "f5669ee5-88de-5b56-5997-78a81d41b91c"
+            }
+          ]
+        },
+        {
+          "id": "midnight_butter_bread_at_mushroom_house/track_10_the_oven_knows_what_to_do/e364fa72abecb945",
+          "title": "Track 10 The Oven Knows What To Do",
+          "order": 10,
+          "prompt": "Gentle instrumental piano trio jazz, 70 BPM, soft acoustic piano, warm upright bass and delicate brushed drums. Steady relaxed swing, reassuring repeating melody, simple flowing harmonies, intimate acoustic recording, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6958ba724e804124/track_10_the_oven_knows_what_to_do/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_10_the_oven_knows_what_to_do/1f861b55-2e02-6d15-6dfa-db59344f872c.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_10_the_oven_knows_what_to_do/1f861b55-2e02-6d15-6dfa-db59344f872c.flac"
+                }
+              ],
+              "filename": "1f861b55-2e02-6d15-6dfa-db59344f872c"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_10_the_oven_knows_what_to_do/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_10_the_oven_knows_what_to_do/983f4fb1-cd6b-9aaf-2bcf-74e84655bf8e.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_10_the_oven_knows_what_to_do/983f4fb1-cd6b-9aaf-2bcf-74e84655bf8e.flac"
+                }
+              ],
+              "filename": "983f4fb1-cd6b-9aaf-2bcf-74e84655bf8e"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_10_the_oven_knows_what_to_do/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_10_the_oven_knows_what_to_do/044aa118-5591-58c2-73d8-97c8e303a81c.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_10_the_oven_knows_what_to_do/044aa118-5591-58c2-73d8-97c8e303a81c.flac"
+                }
+              ],
+              "filename": "044aa118-5591-58c2-73d8-97c8e303a81c"
+            }
+          ]
+        },
+        {
+          "id": "midnight_butter_bread_at_mushroom_house/track_11_the_first_golden_morning/88f0cf97962d5bb3",
+          "title": "Track 11 The First Golden Morning",
+          "order": 11,
+          "prompt": "Luminous instrumental cool jazz, 78 BPM, lyrical tenor saxophone, acoustic piano, walking upright bass and gentle brushed drums. Warm ascending melody, relaxed flowing swing, bright major seventh harmonies, gradual soft crescendo, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6958ba724e804124/track_11_the_first_golden_morning/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_11_the_first_golden_morning/4efd3ee7-9b79-d4cf-ae6a-e1dbfd7bbd2b.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_11_the_first_golden_morning/4efd3ee7-9b79-d4cf-ae6a-e1dbfd7bbd2b.flac"
+                }
+              ],
+              "filename": "4efd3ee7-9b79-d4cf-ae6a-e1dbfd7bbd2b"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_11_the_first_golden_morning/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_11_the_first_golden_morning/f1335a17-b15d-0386-b856-f24340276fd5.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_11_the_first_golden_morning/f1335a17-b15d-0386-b856-f24340276fd5.flac"
+                }
+              ],
+              "filename": "f1335a17-b15d-0386-b856-f24340276fd5"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_11_the_first_golden_morning/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_11_the_first_golden_morning/9e906125-6f48-86ef-feee-5bf59fbeebda.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_11_the_first_golden_morning/9e906125-6f48-86ef-feee-5bf59fbeebda.flac"
+                }
+              ],
+              "filename": "9e906125-6f48-86ef-feee-5bf59fbeebda"
+            }
+          ]
+        },
+        {
+          "id": "midnight_butter_bread_at_mushroom_house/track_12_a_perfect_round_butter_bread/20311a3713c384d4",
+          "title": "Track 12 A Perfect Round Butter Bread",
+          "order": 12,
+          "prompt": "Affectionate instrumental soul jazz, 72 BPM, mellow tenor saxophone, warm electric piano, rounded upright bass and delicate brushed drums. Gentle steady groove, joyful lyrical melody, rich major harmonies, peaceful satisfying resolution, intimate natural sound, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_6958ba724e804124/track_12_a_perfect_round_butter_bread/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_12_a_perfect_round_butter_bread/539a85a0-b4d2-b3c0-0440-16bac95e7aad.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_12_a_perfect_round_butter_bread/539a85a0-b4d2-b3c0-0440-16bac95e7aad.flac"
+                }
+              ],
+              "filename": "539a85a0-b4d2-b3c0-0440-16bac95e7aad"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_12_a_perfect_round_butter_bread/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_12_a_perfect_round_butter_bread/8c5d8aa0-697d-91f1-9914-a0f13f74b9c6.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_12_a_perfect_round_butter_bread/8c5d8aa0-697d-91f1-9914-a0f13f74b9c6.flac"
+                }
+              ],
+              "filename": "8c5d8aa0-697d-91f1-9914-a0f13f74b9c6"
+            },
+            {
+              "id": "studio_batch_6958ba724e804124/track_12_a_perfect_round_butter_bread/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795165750.0570214,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_12_a_perfect_round_butter_bread/fbc57b37-fcda-9e8e-6410-b8139f6bac51.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-friday/main/studio_batch_6958ba724e804124/track_12_a_perfect_round_butter_bread/fbc57b37-fcda-9e8e-6410-b8139f6bac51.flac"
+                }
+              ],
+              "filename": "fbc57b37-fcda-9e8e-6410-b8139f6bac51"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
